@@ -154,14 +154,10 @@ public class Main {
         }
 
         if (balances == true) {
-            System.out.println("сбалансированное выражение");
+            System.out.println("сбалансированная строка");
         } else{
-            System.out.println("не сбалансированное выражение");
+            System.out.println("несбалансированная строка");
         }
-
-
-
-
 
     }
 }
